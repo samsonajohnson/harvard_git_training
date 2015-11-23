@@ -9,3 +9,5 @@ software-carpentry.org/lessons.html
 This is the first exercise to show we can comit.
 
 Now, we added the git ignore.
+
+You can read up on software-carpentry.org/lessons.html.
