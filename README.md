@@ -25,3 +25,6 @@ editing from the github interface
 test 1 commit with out pull
 
 test 2 commit with a pull now we will test a conflict
+
+test 2 commit with a pull a conflict will be tested
+
