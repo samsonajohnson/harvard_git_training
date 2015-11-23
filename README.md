@@ -1,5 +1,7 @@
 This folder contians the git lesson that we are on.
 
+change on local from outofsync branch
+
 change for github pull request
 
 git init - initializes an empty repository. Nesting git projects is sort of a 
