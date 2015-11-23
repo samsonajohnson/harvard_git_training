@@ -5,3 +5,5 @@ silly idea.
 
 The website for todays lesson can be found at: 
 software-carpentry.org/lessons.html
+
+This is the first exercise to show we can comit.
