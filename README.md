@@ -28,3 +28,20 @@ test 2 commit with a pull now we will test a conflict
 
 test 2 commit with a pull a conflict will be tested
 
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+# Bullet points (unordered lists)
+
+- bullet 1
+- bullet 2
+   - bullet 2
+
+1. item1 
+1. item2
+2. item3
+    1. item1
