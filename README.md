@@ -17,3 +17,5 @@ You can read up on software-carpentry.org/lessons.html.
 git checkout is the command for repointing the HEAD
 
 we are editing this file to make soem changes.
+
+test to check with commit without add
